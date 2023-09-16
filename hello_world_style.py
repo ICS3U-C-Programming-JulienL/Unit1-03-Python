@@ -2,11 +2,11 @@
 
 # Created By: Julien Lamoureux
 # Date: September 16, 2023
-# This program displays "Hello World! with proper style." and "This is where I'm testing my function."
+# This program displays "Hello World! with proper style."
 
 
 def main():
-    print("Hello World! with proper style.")
+    print("Hello, World! with proper style!")
     print("This is where I'm testing my function.")
 
 
